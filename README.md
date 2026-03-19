@@ -1,6 +1,9 @@
 # where2sit
 A campus room availability tracker
 
+# NOTE
+This is forked to test stuff, not our real repo
+
 ## Pitch
 Don't know where to go when you have an online class? The quiet floor in the library is too loud? Too shy to sit next to strangers? We got you!
 
